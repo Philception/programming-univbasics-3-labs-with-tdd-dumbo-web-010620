@@ -1,1 +1,1 @@
-first_number = "hey you"# Add your variables here
+first_number = 20# Add your variables here
